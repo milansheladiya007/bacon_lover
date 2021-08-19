@@ -2,7 +2,23 @@ body {
 	background-color: pink;
 }
 
+img:hover{
+	background-color: yellow;
+}
+
+.bcn{
+	background-color: bisque;
+}
+
+.bcl{
+	background-color: white;
+}
+
 h1 {
 	color: green;
 	font-size: 30px;
+}
+
+.circular{
+	border-radius: 100%;
 }
